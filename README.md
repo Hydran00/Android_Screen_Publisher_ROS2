@@ -5,7 +5,7 @@ This is a simple ROS2 package that broacast the screen of your android device di
 Having scrcpy and xdotool installed:
 ```
 sudo apt-get update
-sudo apt-get install scrcpy xdotool
+sudo apt-get install scrcpy xdotool Xlib
 ```
 Having the required pip packages:
 ```
